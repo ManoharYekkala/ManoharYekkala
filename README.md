@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there! 👋  <br>I’m Manohar — a developer who loves building systems that scale.  <br>- 🛠️ Working with TypeScript, Java, Node.js, and databases  <br>- 🚀 Exploring AI, data engineering, and high-performance backend systems  <br>- 🎮 Gamer on weekends, coder on weekdays  <br>
+Hey there! 👋  <br>I’m Manohar — a developer who loves building systems that scale.  <br>- 🛠️ Working with TypeScript, Java, Node.js, and databases  <br>- 🚀 Always learning, always shipping <br>- 🎮 Gamer on weekends, coder on weekdays  <br>
 
 
 ## 🌐 Socials:
